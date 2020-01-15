@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assert Centralised Method", "Assert Centralised Method.csproj", "{CCF9F098-7148-4635-B80B-A251981CE0E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF9F098-7148-4635-B80B-A251981CE0E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF9F098-7148-4635-B80B-A251981CE0E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF9F098-7148-4635-B80B-A251981CE0E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF9F098-7148-4635-B80B-A251981CE0E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C62C2143-7EBC-434C-B0C2-75FFC1618D57}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\Automation\Selenium\Round-2\Assert Centralised Method\bin\Debug\netcoreapp2.1\Assert Centralised Method.deps.json
+D:\Automation\Selenium\Round-2\Assert Centralised Method\bin\Debug\netcoreapp2.1\Assert Centralised Method.runtimeconfig.json
+D:\Automation\Selenium\Round-2\Assert Centralised Method\bin\Debug\netcoreapp2.1\Assert Centralised Method.runtimeconfig.dev.json
+D:\Automation\Selenium\Round-2\Assert Centralised Method\bin\Debug\netcoreapp2.1\Assert Centralised Method.dll
+D:\Automation\Selenium\Round-2\Assert Centralised Method\obj\Debug\netcoreapp2.1\Assert Centralised Method.csproj.CoreCompileInputs.cache
+D:\Automation\Selenium\Round-2\Assert Centralised Method\obj\Debug\netcoreapp2.1\Assert Centralised Method.AssemblyInfoInputs.cache
+D:\Automation\Selenium\Round-2\Assert Centralised Method\obj\Debug\netcoreapp2.1\Assert Centralised Method.AssemblyInfo.cs
+D:\Automation\Selenium\Round-2\Assert Centralised Method\obj\Debug\netcoreapp2.1\Assert Centralised Method.csprojAssemblyReference.cache
+D:\Automation\Selenium\Round-2\Assert Centralised Method\bin\Debug\netcoreapp2.1\Assert Centralised Method.pdb
+D:\Automation\Selenium\Round-2\Assert Centralised Method\obj\Debug\netcoreapp2.1\Assert Centralised Method.dll
+D:\Automation\Selenium\Round-2\Assert Centralised Method\obj\Debug\netcoreapp2.1\Assert Centralised Method.pdb
